@@ -1,6 +1,6 @@
 import React from 'react';
-import Title from '../title/Title';
-import classes from './Footer.module.css';
+import Title from '../Title/Title';
+import classes from './footer.module.css';
 
 
 const Footer = () => {

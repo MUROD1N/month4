@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Title from '../title/Title';
+import Title from '../Title/Title';
 import './header.css'
 
 

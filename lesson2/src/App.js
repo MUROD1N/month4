@@ -1,5 +1,6 @@
 import './App.css';
-import MainPage from './pages/MainPage';
+import MainPage from "./pages/MainPage";
+
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
             <div className="App">
                 <MainPage/>
             </div>
-        </>
+            </>
     );
 }
 
